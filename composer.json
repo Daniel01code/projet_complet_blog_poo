@@ -1,0 +1,18 @@
+{
+    "name": "big.tadj/projet_complet_blog_poo",
+    "autoload": {
+        "psr-4": {
+            "BigTadj\\ProjetCompletBlogPoo\\": "src/",
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Database\\": "database/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel01code",
+            "email": "danieltamba045@gmail.com"
+        }
+    ],
+    "require": {}
+}
